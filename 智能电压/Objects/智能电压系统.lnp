@@ -1,0 +1,7 @@
+".\Objects\main.obj",
+".\Objects\ds1302.obj",
+".\Objects\seg.obj",
+".\Objects\key.obj",
+".\Objects\iic.obj" 
+TO ".\Objects\智能电压系统" 
+PRINT(".\Listings\智能电压系统.m51") RAMSIZE(256) 

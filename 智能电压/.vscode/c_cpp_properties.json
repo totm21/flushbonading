@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Target 1",
+            "includePath": [
+                "D:\\Software\\keil\\C51\\INC\\STC",
+                "D:\\Software\\keil\\C51\\INC",
+                "d:\\课程资料\\单片机小学期\\程智\\智能电压"
+            ],
+            "defines": [
+                "__C51__",
+                "__VSCODE_C51__",
+                "reentrant=",
+                "compact=",
+                "small=",
+                "large=",
+                "data=",
+                "idata=",
+                "pdata=",
+                "bdata=",
+                "xdata=",
+                "code=",
+                "bit=char",
+                "sbit=char",
+                "sfr=char",
+                "sfr16=int",
+                "sfr32=int",
+                "interrupt=",
+                "using=",
+                "_at_=",
+                "_priority_=",
+                "_task_="
+            ],
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
